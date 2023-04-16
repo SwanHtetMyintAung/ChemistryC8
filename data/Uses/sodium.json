@@ -1,0 +1,47 @@
+[
+    {
+        "name" :"Sodium Oxide(Disodium Oxide)" ,
+        "formula":"Na2O",
+        "use" : "glass manufacture"
+    },
+    {
+        "name" :"Sodium Hydroxide(Caustic Soda)" ,
+        "formula":"NaOH",
+        "use" : "manufacture of Soap  , paper making and dying industry , refining of petroleum and rubber industry"
+    },
+    {
+        "name" :"Sodium Carbonate(Soda Ash)" ,
+        "formula":"Na2CO3",
+        "use" : "softening hard water , maufacture of glass aand water glass"
+    },
+    {
+        "name" :"Sodium Hydrogencarbonate" ,
+        "formula":"NaHCO3",
+        "use" : "sold as baking soda , medicinal purpose such as correction stomach acidcity"
+    },
+    {
+        "name" :"Sodium Chloride" ,
+        "formula":"NaCl",
+        "use" : "human diet , seasoning of food"
+    },
+    {
+        "name" :"Sodium Nitrate" ,
+        "formula":"NaNO3",
+        "use" : "fertilizer"
+    },
+    {
+        "name" :"Sodium Sulphate(Glaubr's Salt)" ,
+        "formula":"Na2SO4",
+        "use" : "purgative in medincine , manufacture of glass"
+    },
+    {
+        "name" :"Sodium Hydrogesulphate" ,
+        "formula":"NaHSO4",
+        "use" : "idk"
+    },
+    {
+        "name" :"Sodium thiosulphate" ,
+        "formula":"Na2S2O3",
+        "use" : "photography"
+    }
+]

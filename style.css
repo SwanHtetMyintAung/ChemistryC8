@@ -1,0 +1,96 @@
+/* Universal Styles*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+:root{
+    --background-color-- : #16161d;
+}
+body{
+    background-color: var(--background-color--);
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+/*Navbar styling*/
+nav#navbar {
+    background-color: var(--background-color--);
+    display: flex;
+    padding : 1rem;
+    align-items: center;
+    justify-content: space-between;
+
+}
+/*aligning two anchor links to the right*/
+nav#navbar > div#nav-links {
+    display: flex;
+    align-self:flex-end;
+}
+/*add spaces between 2 anchors to look better*/
+nav#navbar > div#nav-links > a {
+    margin : 0 20px
+}
+
+/*Main Content Body Styles*/
+main{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    /**align-items: center;*/
+    background-color:var(--background-color--) ;
+    color:white;
+    
+}
+main > ol#group-list {
+    color: white;
+    margin-top: 10vh;
+}
+main > ol#group-list > li{
+    margin: 5vh 0;
+}
+
+
+div#usage-container{
+    color:white;
+    display: flex;
+    justify-content: center;
+}
+
+div#usage-container > table {
+    width: 80%;
+    height:90vh;
+    text-align: center;
+}
+
+div#usage-container > table > tbody , thead > tr > th ,td{
+    border-left: 1px solid white;
+    border-bottom: 1px solid white;
+}
+div#about-div{
+    display: flex;
+    flex-direction: column;
+    color:white;
+    align-items: center;
+}
+div#about-div > * {
+    margin:2vh 0;
+    list-style: none;
+    text-align: center;
+}
+div#about-div > h1,h2,h3{
+    text-decoration: underline;
+}
+div#about-div > ol > li {
+    margin:20px 0;
+}
+div#about-div > hr {
+    display: block;
+    width:100%;
+}
