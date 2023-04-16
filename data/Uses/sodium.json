@@ -1,4 +1,8 @@
-[
+[   {
+        "name":"Sodium",
+        "formula":"Na",
+        "use":"large quantities manufacture of sodium peroxide ,Na2O2 , sodium cyanide , NaCN , NaNH2 , manufacture of tetraethyl lead , an anti-knock additive used in petrol"
+    },
     {
         "name" :"Sodium Oxide(Disodium Oxide)" ,
         "formula":"Na2O",
@@ -37,7 +41,7 @@
     {
         "name" :"Sodium Hydrogesulphate" ,
         "formula":"NaHSO4",
-        "use" : "idk"
+        "use" : "water treatment, gas purification, cleaning, and stripping"
     },
     {
         "name" :"Sodium thiosulphate" ,
